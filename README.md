@@ -1,4 +1,4 @@
-# containarization-practice
+# Containarization-practice
 Creating multi-container environment for practicing
 
 Python application that connects to a database that is set to mysql.
